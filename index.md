@@ -6,3 +6,4 @@ Check out my [Github profile](https://github.com/jreinert)
 
 - <a rel="me" href="https://bantha.tatooine.space/@jokke">Mastodon</a>
 - <a rel="me" href="https://jreinert.keybase.pub">Keybase</a>
+- <a rel="me" href="https://jreinert.gitlab.io">Gitlab</a>
